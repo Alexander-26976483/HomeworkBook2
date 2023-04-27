@@ -1,0 +1,7 @@
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\bin\Debug\Work8.7.exe.config
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\bin\Debug\Work8.7.exe
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\bin\Debug\Work8.7.pdb
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\obj\Debug\Work8.7.csproj.CoreCompileInputs.cache
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\obj\Debug\Work8.7.exe
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\obj\Debug\Work8.7.pdb
+E:\Visual Studio\HomeworkBook2\Chapter8\Work8.7\obj\Debug\Work8.7.csprojAssemblyReference.cache

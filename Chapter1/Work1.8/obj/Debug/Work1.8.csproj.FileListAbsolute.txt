@@ -1,0 +1,6 @@
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\bin\Debug\Work1.8.exe.config
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\bin\Debug\Work1.8.exe
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\bin\Debug\Work1.8.pdb
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\obj\Debug\Work1.8.csproj.CoreCompileInputs.cache
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\obj\Debug\Work1.8.exe
+E:\Visual Studio\HomeworkBook2\Chapter1\Work1.8\obj\Debug\Work1.8.pdb

@@ -1,0 +1,7 @@
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\bin\Debug\Work5.2.exe.config
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\bin\Debug\Work5.2.exe
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\bin\Debug\Work5.2.pdb
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\obj\Debug\Work5.2.csprojAssemblyReference.cache
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\obj\Debug\Work5.2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\obj\Debug\Work5.2.exe
+E:\Visual Studio\HomeworkBook2\Chapter5\Work5.2\obj\Debug\Work5.2.pdb
